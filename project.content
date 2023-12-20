@@ -5,6 +5,9 @@ Ecommerce\search.xml
 Sample-REST-Test-Suite\Simple-Login-Call.xml
 Sample-REST-Test-Suite\Integration-Test.xml
 Sample-REST-Test-Suite\DataDriven-REST-Test.xml
+testing-content-project\Simple-Login-Call.xml
+testing-content-project\Integration-Test.xml
+testing-content-project\DataDriven-REST-Test.xml
 EcommerceVirt\%2Ftest.xml
 EcommerceVirt\buy.xml
 EcommerceVirt\login.xml
